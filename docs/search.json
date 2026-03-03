@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "about.html#markdown",
+    "href": "about.html#markdown",
+    "title": "About Me",
+    "section": "```markdown",
+    "text": "```markdown"
+  },
+  {
+    "objectID": "about.html#title-about",
+    "href": "about.html#title-about",
+    "title": "About Me",
+    "section": "title: “About”",
+    "text": "title: “About”"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About Me",
+    "section": "Skills",
+    "text": "Skills\n\nProgramming: R (tidyverse), (Python), SQL\n\nTools: Git/GitHub, Quarto, Excel, Power BI\n\nAnalytics: visualization, modeling, experimental design, reporting"
+  },
+  {
+    "objectID": "about.html#what-im-working-on",
+    "href": "about.html#what-im-working-on",
+    "title": "About Me",
+    "section": "What I’m working on",
+    "text": "What I’m working on\n\nI am learning in-depth descriptive data analytics methods, including Natural Language Processing and Computer Vision.\nI am looking forward to returning to Union Home Mortgage this summer as a Strategic Data Analytics Intern, where I will be using R Studio and Power BI to analyze information and make useful and justified suggestion for improvement areas throughout the company."
+  },
+  {
+    "objectID": "about.html#coursework",
+    "href": "about.html#coursework",
+    "title": "About Me",
+    "section": "Coursework",
+    "text": "Coursework\n\nData Systems\nLinear Algebra and Differential Equations\nStatistical Theory\nProbabilistic Modeling\nDesign and Data Analysis for Social Impact\nAdvanced Descriptive Methods in Data Analytics"
+  },
+  {
+    "objectID": "about.html#resume",
+    "href": "about.html#resume",
+    "title": "About Me",
+    "section": "Resume",
+    "text": "Resume\nLinkedin: www.linkedin.com/in/maddie-geschke"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome! I’m Maddie Geschke, a Data Analytics major interested in (your interests here: data visualization, analytics engineering, sports analytics, public health, etc.).\n\n\n\nA few projects I’m proud of\nThe tools I use (R, Python, SQL, Tableau/Power BI, Excel)\nWays to contact me\n\n\n\n\n\n\n\nNote\n\n\n\nTip: This site is built with Quarto. It’s designed to be reproducible and easy to update as your work evolves.\n\n\n\n\n\n\nSkills: R, tidyverse, SQL, data visualization, statistical modeling\n\nInterests: (add 2–3)\n\nCurrently seeking: internships / research / full-time roles (optional)\n\n\n\n\n\nEmail: yourname@example.com\n\nGitHub: https://github.com/yourusername\n\nLinkedIn: (optional)"
+  },
+  {
+    "objectID": "index.html#what-youll-find-here",
+    "href": "index.html#what-youll-find-here",
+    "title": "Home",
+    "section": "",
+    "text": "A few projects I’m proud of\nThe tools I use (R, Python, SQL, Tableau/Power BI, Excel)\nWays to contact me\n\n\n\n\n\n\n\nNote\n\n\n\nTip: This site is built with Quarto. It’s designed to be reproducible and easy to update as your work evolves."
+  },
+  {
+    "objectID": "index.html#quick-highlights",
+    "href": "index.html#quick-highlights",
+    "title": "Home",
+    "section": "",
+    "text": "Skills: R, tidyverse, SQL, data visualization, statistical modeling\n\nInterests: (add 2–3)\n\nCurrently seeking: internships / research / full-time roles (optional)"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Home",
+    "section": "",
+    "text": "Email: yourname@example.com\n\nGitHub: https://github.com/yourusername\n\nLinkedIn: (optional)"
+  }
+]

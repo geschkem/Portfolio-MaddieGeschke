@@ -2,9 +2,9 @@
 title: "Home"
 ---
 
-# Your Name
+# Maddie Geschke
 
-Welcome! I’m **Your Name**, a Data Analytics major interested in **(your interests here: data visualization, analytics engineering, sports analytics, public health, etc.)**.
+Welcome! I’m **Maddie Geschke**, a Data Analytics major interested in **(your interests here: data visualization, analytics engineering, sports analytics, public health, etc.)**.
 
 ## What you’ll find here
 - A few projects I’m proud of
@@ -16,11 +16,11 @@ Welcome! I’m **Your Name**, a Data Analytics major interested in **(your inter
 :::
 
 ## Quick highlights
-- **Skills:** R, tidyverse, SQL, data visualization, statistical modeling  
-- **Interests:** (add 2–3)  
-- **Currently seeking:** internships / research / full-time roles (optional)
+- **Skills:** R, tidyverse, SQL, data visualization, statistical modeling, Python, Power BI  
+- **Interests:** Making comprehensible and useful visualizations !
+- **Currently seeking:** Full Time Roles after May 2027 in the Data Analyst/Statistical world
 
 ## Contact
-- Email: yourname@example.com  
-- GitHub: https://github.com/yourusername  
-- LinkedIn: (optional)
+- Email: geschk_m1@denison.edu
+- GitHub: https://github.com/geschkem  
+- LinkedIn: www.linkedin.com/in/maddie-geschke

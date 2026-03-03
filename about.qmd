@@ -9,18 +9,24 @@ title: "About"
 
 # About Me
 
-I’m a junior/senior Data Analytics student at **College Name**. I enjoy turning messy data into clear insights and communicating results in a reproducible way.
+I’m a junior Data Analytics major at Denison University, and I also study Applied Mathematics and Vocal Performance. I enjoy turning messy data into clear insights and communicating results in a reproducible way.
 
 ## Skills
 - **Programming:** R (tidyverse), (Python), SQL  
-- **Tools:** Git/GitHub, Quarto, Excel, Tableau/Power BI  
+- **Tools:** Git/GitHub, Quarto, Excel, Power BI  
 - **Analytics:** visualization, modeling, experimental design, reporting
 
 ## What I’m working on
-- (Add 1–2 bullets: capstone topic, research, internship project, etc.)
+- I am learning in-depth descriptive data analytics methods, including Natural Language Processing and Computer Vision. 
+- I am looking forward to returning to Union Home Mortgage this summer as a Strategic Data Analytics Intern, where I will be using R Studio and Power BI to analyze information and make useful and justified suggestion for improvement areas throughout the company. 
 
-## Coursework (optional)
-- (Add 3–5 relevant courses)
+## Coursework
+- Data Systems 
+- Linear Algebra and Differential Equations 
+- Statistical Theory
+- Probabilistic Modeling 
+- Design and Data Analysis for Social Impact
+- Advanced Descriptive Methods in Data Analytics
 
-## Resume (optional)
-Add a link to a PDF resume stored in your repo, or link to LinkedIn.
+## Resume
+Linkedin: www.linkedin.com/in/maddie-geschke 
